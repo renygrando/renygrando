@@ -1,126 +1,135 @@
-# 👋 Reny Grando
+<!-- ============================= -->
+<!--            BANNER            -->
+<!-- ============================= -->
 
-**Fundador da Carcará** | Automação Inteligente & Consultoria em IA
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:111827,100:1F2937&text=Reny%20Grando&fontSize=48&fontAlign=50&fontAlignY=38&desc=Arquitetura%20de%20Sistemas%20Inteligentes%20•%20Automa%C3%A7%C3%A3o%20Estrat%C3%A9gica%20•%20IA%20Aplicada&descAlign=50&descAlignY=60&fontColor=F9FAFB&animation=fadeIn"
+  />
+</p>
 
-[![Website](https://img.shields.io/badge/Website-carcara.ai-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carcara.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-renygrando-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renygrando)
-[![Email](https://img.shields.io/badge/Email-reny@carcara.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reny@carcara.ai)
+<!-- ============================= -->
+<!--         HERO SECTION         -->
+<!-- ============================= -->
+
+<h1 align="center">Reny Grando</h1>
+
+<p align="center">
+Arquitetura de Sistemas Inteligentes • Automação Estratégica • IA Aplicada a Negócios
+</p>
+
+<p align="center">
+Fundador da <strong>Reny Automações & IA</strong>
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/renygrando">
+  <img src="https://img.shields.io/badge/LinkedIn-renygrando-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:renygrando@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/renygrando">
+  <img src="https://img.shields.io/badge/Instagram-@renygrando-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🎯 Sobre
+## 🧠 Sobre
 
-Construo sistemas que **libertam empresas de processos manuais**.
+Eu projeto e implemento **arquiteturas de automação e inteligência artificial** para empresas que desejam crescer com estrutura, previsibilidade e controle.
 
-Fundei a **[Carcará](https://carcara.ai)** para levar automação inteligente e consultoria em IA para negócios brasileiros — restaurantes, e-commerces, indústrias, escritórios e agronegócio. 
+Minha atuação não é centrada em ferramentas — é centrada em **modelagem de sistemas**.
 
-💡 Acredito que **tecnologia existe para servir pessoas**, não substituí-las.
+Ao longo da minha trajetória, passei por:
 
-Trabalho com **n8n**, **integrações de API**, **agentes de IA** e **arquitetura de sistemas** que unem estratégia e execução. Minha abordagem combina visão técnica com clareza de propósito: entregar valor real, não apenas código.
+- Programação e desenvolvimento de sistemas  
+- Operações bancárias com processos manuais repetitivos  
+- Ambientes de agência e growth  
+- Estruturação comercial e automação de vendas  
+
+Essa vivência me permitiu entender um ponto crítico:
+
+> A maioria das empresas não precisa de mais esforço.  
+> Precisa de sistemas melhores.
+
+Hoje, meu trabalho é transformar operações fragmentadas em **ecossistemas inteligentes integrados**.
 
 ---
 
-## 🛠️ Stack Principal
+## 🎯 Tese de Trabalho
+
+Empresas perdem dinheiro não por falta de demanda,  
+mas por falhas estruturais:
+
+- Leads sem resposta  
+- Follow-ups esquecidos  
+- Processos manuais que geram gargalos  
+- Dados espalhados  
+- Dependência excessiva de pessoas-chave  
+
+Eu atuo na raiz do problema:  
+**Arquitetura, Orquestração e Inteligência Operacional.**
+
+---
+
+## 🔬 Áreas de Especialização
+
+### Arquitetura de Automação
+- Modelagem de fluxos complexos com n8n  
+- Orquestração de APIs e Webhooks  
+- Integração entre CRM, ERP e canais de atendimento  
+- Sistemas modulares e escaláveis  
+
+### Inteligência Artificial Aplicada
+- Implementação de LLMs (OpenAI, Claude)  
+- Sistemas com RAG (Retrieval-Augmented Generation)  
+- Engenharia de prompts estratégica  
+- Agentes conversacionais com contexto persistente  
+- Automação de qualificação e tomada de decisão  
+
+### Estruturação Comercial Automatizada
+- Funis inteligentes de captação  
+- Follow-up automatizado  
+- Qualificação preditiva de leads  
+- Sistemas de agendamento e roteamento  
+
+---
+
+## 🏗️ Stack Tecnológica
 
 ### Automação & Orquestração
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=integromat&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-2C2D72?style=flat-square&logo=webhook&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-2C2D72?style=flat-square)
 
-### Dados & Backend
-![Baserow](https://img.shields.io/badge/Baserow-0052CC?style=flat-square&logo=airtable&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
+### IA & Modelagem
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-4A90E2?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square)
+
+### Dados & Infraestrutura
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-
-### IA & LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-4A90E2?style=flat-square&logo=databricks&logoColor=white)
-
-### Infraestrutura & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Easypanel](https://img.shields.io/badge/Easypanel-000000?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Frontend & Integração
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📊 GitHub Analytics
 
-### 🍽️ Dashboard de Gestão para Restaurantes
-Sistema completo de análise de vendas, controle de estoque e automação de pedidos — integrando PDV, delivery e WhatsApp em um único painel.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renygrando&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117"/>
+</p>
 
-**Tech:** `n8n` `Baserow` `Google Sheets API` `WhatsApp API`
-
----
-
-### 🔄 Pipeline de Automação com n8n
-Workflows inteligentes para e-commerce: desde captura de leads até follow-up personalizado, sincronizando CRM, ERP e canais de venda.
-
-**Tech:** `n8n` `PostgreSQL` `REST API` `Webhooks`
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renygrando&theme=dark&hide_border=true&background=0D1117"/>
+</p>
 
 ---
 
-### 🤖 Agentes de IA para Atendimento
-Implementação de assistentes virtuais que automatizam triagem, agendamento e suporte, mantendo o toque humano na comunicação.
-
-**Tech:** `OpenAI API` `Claude` `RAG` `Dify` `n8n`
-
----
-
-## 💭 Filosofia
-
-> **Automação deve ampliar capacidade humana**, não anulá-la.
-
-> **Sistemas bem construídos trazem ordem e liberdade**, não complexidade.
-
-> **Tecnologia com propósito transforma negócios e vidas**.
-
-Meu trabalho reflete valores de **clareza, eficiência e serviço** — princípios que guiam tanto meu código quanto minhas decisões.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renygrando&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF)
-
----
-
-## 📍 Localização
-
-🇧🇷 **Itanhaém, São Paulo — Brasil**
-
----
-
-## 📫 Contato
-
-💼 **LinkedIn:** [linkedin.com/in/renygrando](https://linkedin.com/in/renygrando)  
-🌐 **Website:** [carcara.ai](https://carcara.ai)  
-📧 **Email:** [reny@carcara.ai](mailto:reny@carcara.ai)
-
----
-
-<div align="center">
-
-### *"O carcará é símbolo de visão, agilidade e domínio técnico."*
-
-**Escolhi esse nome porque representa o que faço:**  
-**enxergar longe, agir rápido e construir com precisão.**
-
----
-
-⭐️ **Se você acredita em automação com propósito, vamos conversar.**
-
-</div>
+<p align="center">
+<strong>Arquitetando sistemas que trabalham enquanto você pensa.</strong>
+</p>
