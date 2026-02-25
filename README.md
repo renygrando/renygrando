@@ -1,36 +1,38 @@
-<!-- ============================= -->
-<!--            BANNER            -->
-<!-- ============================= -->
+<!-- ======================================== -->
+<!--               CYBER BANNER               -->
+<!-- ======================================== -->
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:111827,100:1F2937&text=Reny%20Grando&fontSize=48&fontAlign=50&fontAlignY=38&desc=Arquitetura%20de%20Sistemas%20Inteligentes%20•%20Automa%C3%A7%C3%A3o%20Estrat%C3%A9gica%20•%20IA%20Aplicada&descAlign=50&descAlignY=60&fontColor=F9FAFB&animation=fadeIn"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:0f0c29,50:302b63,100:24243e&animation=twinkling"/>
 </p>
 
-<!-- ============================= -->
-<!--         HERO SECTION         -->
-<!-- ============================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=; ; ;"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%"/>
+</p>
+
+<!-- ======================================== -->
+<!--               PROFILE CORE               -->
+<!-- ======================================== -->
 
 <h1 align="center">Reny Grando</h1>
 
 <p align="center">
-Arquitetura de Sistemas Inteligentes • Automação Estratégica • IA Aplicada a Negócios
-</p>
-
-<p align="center">
-Fundador da <strong>Reny Automações & IA</strong>
+Automação • IA • Arquitetura de Sistemas • Integração de APIs
 </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/renygrando">
-  <img src="https://img.shields.io/badge/LinkedIn-renygrando-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:renygrando@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://instagram.com/renygrando">
-  <img src="https://img.shields.io/badge/Instagram-@renygrando-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
@@ -38,98 +40,88 @@ Fundador da <strong>Reny Automações & IA</strong>
 
 ## 🧠 Sobre
 
-Eu projeto e implemento **arquiteturas de automação e inteligência artificial** para empresas que desejam crescer com estrutura, previsibilidade e controle.
+Construo sistemas que eliminam tarefas manuais e transformam operações em fluxos inteligentes.
 
-Minha atuação não é centrada em ferramentas — é centrada em **modelagem de sistemas**.
+Minha especialidade está na interseção entre:
 
-Ao longo da minha trajetória, passei por:
+- Automação
+- Inteligência Artificial
+- Integração de Sistemas
+- Estruturação Comercial
 
-- Programação e desenvolvimento de sistemas  
-- Operações bancárias com processos manuais repetitivos  
-- Ambientes de agência e growth  
-- Estruturação comercial e automação de vendas  
-
-Essa vivência me permitiu entender um ponto crítico:
-
-> A maioria das empresas não precisa de mais esforço.  
-> Precisa de sistemas melhores.
-
-Hoje, meu trabalho é transformar operações fragmentadas em **ecossistemas inteligentes integrados**.
+Crio arquiteturas que trabalham 24/7, conectam dados, organizam processos e reduzem fricção operacional.
 
 ---
 
-## 🎯 Tese de Trabalho
-
-Empresas perdem dinheiro não por falta de demanda,  
-mas por falhas estruturais:
-
-- Leads sem resposta  
-- Follow-ups esquecidos  
-- Processos manuais que geram gargalos  
-- Dados espalhados  
-- Dependência excessiva de pessoas-chave  
-
-Eu atuo na raiz do problema:  
-**Arquitetura, Orquestração e Inteligência Operacional.**
-
----
-
-## 🔬 Áreas de Especialização
-
-### Arquitetura de Automação
-- Modelagem de fluxos complexos com n8n  
-- Orquestração de APIs e Webhooks  
-- Integração entre CRM, ERP e canais de atendimento  
-- Sistemas modulares e escaláveis  
-
-### Inteligência Artificial Aplicada
-- Implementação de LLMs (OpenAI, Claude)  
-- Sistemas com RAG (Retrieval-Augmented Generation)  
-- Engenharia de prompts estratégica  
-- Agentes conversacionais com contexto persistente  
-- Automação de qualificação e tomada de decisão  
-
-### Estruturação Comercial Automatizada
-- Funis inteligentes de captação  
-- Follow-up automatizado  
-- Qualificação preditiva de leads  
-- Sistemas de agendamento e roteamento  
-
----
-
-## 🏗️ Stack Tecnológica
+## ⚙️ Especialidades Técnicas
 
 ### Automação & Orquestração
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=integromat&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
-![Webhooks](https://img.shields.io/badge/Webhooks-2C2D72?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=for-the-badge)
 
-### IA & Modelagem
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-4A90E2?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=flat-square)
+---
 
-### Dados & Infraestrutura
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Inteligência Artificial
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Systems-00F5FF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Design-FF00FF?style=for-the-badge)
+
+---
+
+### Backend & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![REST API](https://img.shields.io/badge/REST_API-00F5FF?style=for-the-badge)
+
+---
+
+## 🧩 O Que Eu Construo
+
+- 🤖 Agentes inteligentes para WhatsApp  
+- 🔁 Funis automatizados de vendas  
+- 📊 Integrações entre CRM, ERP e APIs  
+- 🧠 Sistemas com memória contextual (RAG)  
+- ⚡ Arquiteturas escaláveis com n8n  
+
+---
+
+## 📡 System Status
+
+![Profile Views](https://komarev.com/ghpvc/?username=renygrando&color=00F5FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/renygrando?style=for-the-badge&color=111111)
+![Stars](https://img.shields.io/github/stars/renygrando?style=for-the-badge&color=111111)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renygrando&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=renygrando&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renygrando&theme=dark&hide_border=true&background=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renygrando&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renygrando&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
+## 🧠 Filosofia Operacional
+
+- Sistemas > improviso  
+- Dados > opinião  
+- Estrutura > esforço excessivo  
+- IA como amplificador, não substituto  
+
+---
+
 <p align="center">
-<strong>Arquitetando sistemas que trabalham enquanto você pensa.</strong>
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ0Y5GmQ12/giphy.gif" width="100%"/>
 </p>
